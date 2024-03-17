@@ -75,7 +75,6 @@ for comm_round in range(comms_round):
 
     global_model.compile(loss='categorical_crossentropy', optimizer=SGD(learning_rate=0.01), metrics=['accuracy'])
     
-    # Test global model accuracy
     loss, acc = global_model.evaluate(x_test.reshape((-1, 784)), y_test, verbose=0)
     print(f'At round {comm_round+1}: Global Accuracy : {acc*100:.2f}%')
 
