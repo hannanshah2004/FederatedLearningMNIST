@@ -13,6 +13,3 @@ Implementing Federated Learning using TensorFlow, with MNIST database for traini
 
 ![image](https://github.com/user-attachments/assets/9c2fb143-74e4-4bd5-96e9-ad33f7b467a6)
 
-![results](https://github.com/user-attachments/assets/4f2417cb-a657-4f4c-ba48-fbe290c40b07)
-
-
