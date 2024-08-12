@@ -10,5 +10,9 @@ Implementing Federated Learning using TensorFlow, with MNIST database for traini
 7. Updating the global model based on the local weights and bias
 8. Iterating through a series of rounds to continually improve the model until our pre-set round 10
 9. Reaching as close to convergence as possible considering the size of the dataset and the number of rounds used to implement the federated learning model
-    
+
+![image](https://github.com/user-attachments/assets/9c2fb143-74e4-4bd5-96e9-ad33f7b467a6)
+
 ![results](https://github.com/user-attachments/assets/4f2417cb-a657-4f4c-ba48-fbe290c40b07)
+
+
